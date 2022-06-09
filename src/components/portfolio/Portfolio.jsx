@@ -1,30 +1,30 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/book.png'
+import IMG2 from '../../assets/weather.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Book Search Engine',
+    github: 'https://github.com/Mugisha27/Book',
+    demo: 'https://desolate-cliffs-12103.herokuapp.com/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Weather Dashboard',
+    github: 'https://github.com/Mugisha27/Weather',
+    demo: 'https://mugisha27.github.io/Weather/'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    // demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    github: 'https://github.com/Mugisha27/Final-Project-Dating-Sim1',
+    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
   },
   
 ]
