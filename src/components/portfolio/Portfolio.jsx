@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/book.png'
 import IMG2 from '../../assets/weather.png'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/dating.png'
 
 const data = [
   {
@@ -24,7 +24,7 @@ const data = [
     image: IMG3,
     title: 'Figma dashboard UI kit for data design web apps',
     github: 'https://github.com/Mugisha27/Final-Project-Dating-Sim1',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    demo: 'https://calm-hamlet-19238.herokuapp.com/'
   },
   
 ]
@@ -33,8 +33,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      
+      <h2>Projects</h2>
 
       <div className="container portfolio__container">
         {
