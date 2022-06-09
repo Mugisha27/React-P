@@ -29,7 +29,7 @@ Application has a single Header component that appears on multiple pages, with a
 The license included for the project is under MIT License
 
 ## CHALLENGES FACED
-Being able to upload all the media files into the Readme file
+Being able to upload all the media files into the Readme file.
 
 ## FUTURE DEVELOPMENTS
 Not much beside being somehow comfortable creating a project as such.
