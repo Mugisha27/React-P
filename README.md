@@ -20,7 +20,7 @@ My first React Project was to create my personal portfolio using my new React sk
 ![Installation](src/assets/screenshot.png)
     
 ## DESCRIPTION
-Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
+Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact and Resume sections.
 
 ![DESCRIPTION](src/assets/image.png)
     
